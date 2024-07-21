@@ -23,7 +23,7 @@ body: |
         icon: "${PROPS.theme.donateIcon}"
         mobileToo: true
       - text: "${PROPS.t.links.wiki}"
-        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.docUrl}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
         icon: "${PROPS.theme.docIcon}"
   sideBar:
     links:

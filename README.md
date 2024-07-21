@@ -1,3 +1,5 @@
+[![Netlify Status](https://api.netlify.com/api/v1/badges/6d1452f9-0a5c-4305-96e3-f78cb5a5af5c/deploy-status)](https://app.netlify.com/sites/antifem-blog/deploys)
+
 # Blog of Antifem movement
 
 ## Run
