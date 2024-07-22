@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ""
-tags: []
+tags:
+  - manipulations
 ---
 1. As a particularly insane manipulation - femmes equate feminism with everything good that civilization has created, with civilization itself, that feminism is a world without wars, violence and hatred, and those who dare to criticize it oppose such a prosperous world and want to destroy it. Obviously the goal here is not only to demonstrate that feminism = all the best that civilization has achieved, but also to get other people to defend feminism by defending the benefits of civilization
 2. Men are endless wars, violence and hatred. Who starts the wars? Wives? No, men. Women have never started wars (actually they haven't, for example Russian czaristas have started wars more often than men during the same period of rule). So they want to shift the focus from the problems you're talking about to the fact that it's men who are the problem, all the bad things are from them. They also support the stereotype that women are love and kindness, and men are aggression without reason and wars
