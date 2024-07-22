@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - technologies
 ---
 Artificial intelligence technologies are already changing the world. Businesses are actively reorienting towards AI, especially in the US, and this process is unstoppable, because for business owners it is simply a gold mine - AI works without weekends and breaks and costs 500 times less than a real employee.
 
