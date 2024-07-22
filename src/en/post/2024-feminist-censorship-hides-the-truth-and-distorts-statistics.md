@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - feminist censorship
 ---
 The Internet is flooded with information about the infringement of women's rights, but it is extremely difficult to find information about the infringement of men's rights except in groups in social networks of masculists. On wikipedia and in general in authoritative publications and mass media you will hardly ever see true statistics, graphs and studies on the position of men and women in society. Why is that? It is a consequence of feminist censorship.
 
