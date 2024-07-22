@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - society
 ---
 Since childhood, men have been brought up with a false sense of nobility - it is noble to help a woman even without understanding the conflict, and if the conflict is with a man, the man is to blame by default, not her. You should drop all your affairs and rush to help a woman as soon as she demonstrates her predicament, even if she doesn't necessarily ask for it explicitly, but cries, screams or stigmatizes some man.
 
