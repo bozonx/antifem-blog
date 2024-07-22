@@ -7,15 +7,6 @@ descrAsPreview: true
 coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/slsfreedom/284
-videoLink: htts://example.com
-videoLinkLang: RU
-podcasts:
-  castbox: https://castbox.fm/episode/id5519154-id627404987
-  soundstream: https://soundstream.media/clip/kak-chelovek-popadayet-v-sistemu
-  spotify: https://open.spotify.com/episode/7juzbcWD1l1wbvHJOCrUm7
-  vk: https://vk.com/podcast-214911215_456239021
-  yandexmusic: https://music.yandex.ru/album/26679261/track/116768416
-podcastLang: EN
 authorId: ivan-k
 tags:
   - sdfsdf
@@ -24,6 +15,7 @@ tags:
   - sdfsdfkk
   - sdfsdfsss
 ---
+
 Экономика в коммунах проекта Эдем будет по большей части социалистическая, но так же будет возможность и частного предпринимательства. Душить предпринимательство мы не будем потому что это значит задушить экономику. У нас будут как кооперативы, так и частные компании и мы будем торговать с другими коммунами и с государством.
 
 То что мы не запрещаем предпринимательство это не делает нас либертарианцами, тоесть анархо-капиталистами, как некоторые считают. Не путайте нас с ними, их экономика основана исключительно на собственности, а идеология индивидуалистическая. А наша экономика смешанная и в большей части социалистическая, а идеология коллективистская.

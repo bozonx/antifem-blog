@@ -2,7 +2,7 @@ title: site
 body: |
   title: "Блог движения Антифеминизм"
   description: "Блог движения Антифеминизм"
-  siteLogoAlt: "Блог движения Антифеминизм"
+  siteTitle: "Блог движения Антифеминизм"
 
   authors:
     - id: "ivan-k"
