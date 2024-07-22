@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - male discrimination
 ---
 I, as a representative of the millennial generation, will tell you about the attitude to boys and girls in schools during the 90s and 2000s in Russia.
 
