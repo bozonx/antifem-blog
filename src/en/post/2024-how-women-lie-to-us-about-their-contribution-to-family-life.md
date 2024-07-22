@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - female parasitism
 ---
 Every woman claims to be a miserable laborer and no help from her husband.
 

@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: https://t.me/antifem_battle/286
 authorId: ivan-k
-tags: []
+tags:
+  - женский паразитизм
 ---
 Каждая женщина утверждает что она несчастная труженица, а от мужа никакой помощи.
 
