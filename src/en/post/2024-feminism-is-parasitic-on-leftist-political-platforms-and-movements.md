@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - politics
 ---
 Feminism has infiltrated and parasitized many social and political organizations, replacing their goals with feminist ones. This is especially evident in politics, especially in left-wing political platforms, but there are also many feminists on the right.
 
