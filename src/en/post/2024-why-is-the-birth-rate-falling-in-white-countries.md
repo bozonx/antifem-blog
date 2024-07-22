@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - birth rate
 ---
 Because women have traded having children for material benefits. However, scientists are afraid to name the reason for fear that feminists will deprive them of their careers, but I will, I'm not afraid.
 
