@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - equality
 ---
 It's not easy to understand this in a large state, but let's narrow society down to 10 people - 5 men and 5 women, say living on a desert island.
 
