@@ -8,7 +8,7 @@ cover: ""
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
-authorId: ""
+authorId: ivan-k
 tags:
   - manipulations
 ---
