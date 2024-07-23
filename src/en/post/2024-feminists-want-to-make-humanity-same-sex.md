@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - what feminism is
 ---
 Nowadays there is a lot of talk about artificial intelligence and many fear that it will destroy mankind when a strong artificial intelligence is created. There is even an opinion that mankind is an intermediate stage of evolution before the creation of super intelligence. And when it will be created, mankind will not be needed.
 
