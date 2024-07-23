@@ -27,7 +27,7 @@ const hero = {
       icon: theme.value.docIcon,
     },*/
     {
-      text: "${theme.value.t.links.ourTelegramChannel}",
+      text: `${theme.value.t.links.ourTelegramChannel}`,
       href: "https://t.me/antifem_battle",
       icon: theme.value.telegramIcon,
     },
