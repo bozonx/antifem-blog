@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - what feminism is
 ---
 Even though almost all leftists are feminists it doesn't mean that feminism is a leftist movement. Marxism, left liberalism and anarchism were not originally feminist, moreover they were patriarchal. But gradually feminists squeezed all the masculists out of these movements and took over.
 
