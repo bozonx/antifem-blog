@@ -29,7 +29,7 @@ const hero = {
     },
     {
       text: theme.value.t.links.donate,
-      href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.donateUrl}`,
+      href: `${theme.value.donateUrl}`,
       icon: theme.value.donateIcon,
     },
   ],
