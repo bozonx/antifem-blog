@@ -9,7 +9,8 @@ coverDescr: ""
 coverAlt: ""
 commentUrl: ""
 authorId: ivan-k
-tags: []
+tags:
+  - history of feminism
 ---
 Only early feminism in the late 19th and early 20th century fought for women's rights. As soon as in the early 20th century the females began brainwashing women to establish birth control, which led to a severe decline in birth rates in the nations poisoned by feminism, feminism was born not as a movement for women's rights, but as a movement to deny men's rights, including the most basic rights like children's rights.
 
