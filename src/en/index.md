@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <script setup>
 import HomePageTags from 'vitepress-sls-blog-tmpl/HomePageTags.vue'
 import HomeHero from 'vitepress-sls-blog-tmpl/HomeHero.vue'
@@ -22,11 +21,11 @@ const hero = {
       href: `${theme.value.recentBaseUrl}/1`,
       primary: true,
     },
-    {
+/*    {
       text: theme.value.t.links.wiki,
       href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.docUrl}`,
       icon: theme.value.docIcon,
-    },
+    },*/
     {
       text: theme.value.t.links.donate,
       href: `${theme.value.donateUrl}`,
