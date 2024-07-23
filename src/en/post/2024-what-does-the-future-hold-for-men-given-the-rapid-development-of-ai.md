@@ -1,6 +1,6 @@
 ---
 title: What does the future hold for men, given the rapid development of AI?
-pubDate: 2024-07-07T16:26-03:00
+date: 2024-07-07T16:26-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

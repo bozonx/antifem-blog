@@ -1,6 +1,6 @@
 ---
 title: Feminists want to make humanity same-sex.
-pubDate: 2024-02-28T21:01-03:00
+date: 2024-02-28T21:01-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

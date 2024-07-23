@@ -1,6 +1,6 @@
 ---
 title: How do feminists get men to fight for disenfranchisement?
-pubDate: 2024-03-19T20:46-03:00
+date: 2024-03-19T20:46-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

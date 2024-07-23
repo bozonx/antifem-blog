@@ -1,6 +1,6 @@
 ---
 title: A favorite manipulative technique of feminists is to take advantage of people's ignorance
-pubDate: 2024-04-02T17:14-03:00
+date: 2024-04-02T17:14-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

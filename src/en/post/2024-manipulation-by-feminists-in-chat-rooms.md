@@ -1,6 +1,6 @@
 ---
 title: Manipulation by feminists in chat rooms
-pubDate: 2024-02-26T21:14-03:00
+date: 2024-02-26T21:14-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

@@ -1,6 +1,6 @@
 ---
 title: Where does equality come from?
-pubDate: 2024-03-27T20:39-03:00
+date: 2024-03-27T20:39-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

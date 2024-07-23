@@ -1,6 +1,6 @@
 ---
 title: Why can't we fight for freedom under the banner of feminism within the ranks of the liberal, Marxist, and anarchist left?
-pubDate: 2024-02-29T20:57-03:00
+date: 2024-02-29T20:57-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

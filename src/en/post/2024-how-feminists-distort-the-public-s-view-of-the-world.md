@@ -1,6 +1,6 @@
 ---
 title: How feminists distort the public's view of the world
-pubDate: 2024-07-22T17:04-03:00
+date: 2024-07-22T17:04-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

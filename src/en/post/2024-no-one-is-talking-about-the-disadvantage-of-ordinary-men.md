@@ -1,6 +1,6 @@
 ---
 title: No one is talking about the disadvantage of ordinary men
-pubDate: 2024-02-29T21:23-03:00
+date: 2024-02-29T21:23-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

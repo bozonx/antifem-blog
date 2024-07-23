@@ -1,6 +1,6 @@
 ---
 title: Feminist censorship hides the truth and distorts statistics
-pubDate: 2024-03-28T20:31-03:00
+date: 2024-03-28T20:31-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

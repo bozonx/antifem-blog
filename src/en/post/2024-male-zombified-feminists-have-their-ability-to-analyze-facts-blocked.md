@@ -1,6 +1,6 @@
 ---
 title: Male zombified feminists have their ability to analyze facts blocked.
-pubDate: 2024-03-07T20:48-03:00
+date: 2024-03-07T20:48-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

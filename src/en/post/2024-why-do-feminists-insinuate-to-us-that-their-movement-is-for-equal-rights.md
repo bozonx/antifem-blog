@@ -1,6 +1,6 @@
 ---
 title: Why do feminists insinuate to us that their movement is for equal rights?
-pubDate: 2024-03-02T20:55-03:00
+date: 2024-03-02T20:55-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

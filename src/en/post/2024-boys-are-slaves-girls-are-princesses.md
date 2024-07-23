@@ -1,6 +1,6 @@
 ---
 title: Boys are slaves, girls are princesses
-pubDate: 2024-04-19T16:55-03:00
+date: 2024-04-19T16:55-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

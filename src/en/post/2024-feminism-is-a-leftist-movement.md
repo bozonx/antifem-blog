@@ -1,6 +1,6 @@
 ---
 title: Feminism is a leftist movement?
-pubDate: 2024-02-25T21:17-03:00
+date: 2024-02-25T21:17-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

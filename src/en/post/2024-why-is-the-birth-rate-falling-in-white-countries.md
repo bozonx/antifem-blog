@@ -1,6 +1,6 @@
 ---
 title: Why is the birth rate falling in white countries?
-pubDate: 2024-07-18T16:13-03:00
+date: 2024-07-18T16:13-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
