@@ -20,4 +20,4 @@ Manipulations used by feminists in chat rooms to keep other people from knowing 
 4. Equate anti-feminism to ultra traditionalism or to the ultra right-wing patriarchal movement Male State (banned in Russia). People not versed in the issue will easily believe this, because feminists in the media space have managed to convince the public that any criticism of feminism comes from such movements, and therefore one word is enough and you can easily be labeled a stupid skufa, imagining himself a patriarchal.
 5. Therefore, if you are against feminism (so like ultra patriarchal), you are against women driving or getting an education. So you are against normal women's rights, which is supported by the whole progressive society.
 
-[Previous part](./2024-a-selection-of-feminist-manipulations-in-chat-rooms-1)
+[Previous part](./2024-a-selection-of-feminist-manipulations-in-chat-rooms-2)
