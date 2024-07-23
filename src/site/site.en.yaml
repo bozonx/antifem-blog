@@ -11,7 +11,6 @@ body: |-
   postDonateCall: "If you like this project, please support it financially. [Donate](${PROPS.theme.donateUrl})"
   footer:
     message: "Copying allowed only with a link to the source."
-    # --- After this line all text the same for all the languages
     copyright: "${PROPS.footerCopyright}"
     links:
      - text: "${PROPS.t.links.aboutBlog}"
@@ -49,10 +48,10 @@ body: |-
   #      icon: "${PROPS.theme.docIcon}"
   #      mobile: true
       - { header: "${PROPS.t.links.links}" }
-      - text: "${PROPS.t.links.ourTelegramChannel}"
+      - text: "${PROPS.t.links.ourTelegramChannel} (RU)"
         href: "https://t.me/antifem_battle"
         icon: "${PROPS.theme.telegramIcon}"
-      - text: "${PROPS.t.links.ourTelegramChat}"
+      - text: "${PROPS.t.links.ourTelegramChat} (RU)"
         href: "https://t.me/antifem_battle_chat"
         icon: "${PROPS.theme.chatIcon}"
   #    - text: "${PROPS.t.links.weInSocialMedia}"
