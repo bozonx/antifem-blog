@@ -22,7 +22,7 @@ And the truth is that for most of history there was no **system of education**, 
 
 Moreover, in the early days of universal education, it was strongly associated with Christianity, and its main purpose was to teach both boys and **girls** to read scripture.
 
-## What happened before the system of universal education came into being?
+## And what happened before the advent of universal education?
 
 There was education before that too, but it was not systematic, it was not standardized, and it was strongly tied to religion.
 
