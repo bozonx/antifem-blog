@@ -70,7 +70,7 @@ Firstly, this is how they set a high priority for issues of women's privilege so
 
 And secondly, if people believe that women are disadvantaged, and in conditions where women are not only not disadvantaged, but have privileges unlike men, then it is possible to make people strive to make women's lives even better and give them much more privileges than they have now. At the same time to make men's life worse and deprive them of basic rights, because they are "exploiters of women", their life is already sugar. That is, in other words, to make the disadvantaged and enslaved class of men fight against themselves and for giving their masters even more privileges than they have.
 
-## Did women want an education?
+## Did women want to have an education?
 
 And at the end, let's ask ourselves an interesting question: do women really want and need to be educated?
 
