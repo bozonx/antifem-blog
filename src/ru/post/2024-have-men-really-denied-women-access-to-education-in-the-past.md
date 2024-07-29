@@ -4,9 +4,9 @@ date: 2024-07-29T00:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
-coverDescr: ""
-coverAlt: ""
+cover: /media/2024-have-men-really-denied-women-access-to-education-in-the-past.avif
+coverDescr: Картинка сгенерированна нейросетью
+coverAlt: Школа в 19 веке
 commentUrl: ""
 authorId: ivan-k
 tags: []
