@@ -52,7 +52,7 @@ I think comments here are simply unnecessary.
 2. they conceal that the vast majority of men as well as women were uneducated, since education until the 19th century was mainly available only to the nobility and wealthy families
 3. they draw the false parallel that if women were supposedly disadvantaged in history, they are still disadvantaged now.
 4. they conceal that women from rich families had a very good education and had access to all the knowledge of the world, they knew ancient philosophy and history, literature and many other things that were simply not available to other women and men from poor families.
-5. And most importantly rich women of the past did not care at all about poor women's access to education, this issue was of concern exclusively to men, such as famous figures of the Age of Enlightenment. **Rich women didn't care about poor uneducated women and considered them second class**. And this is another lie of feminists who demonize men - it wasn't really men who thought women were second-class citizens, it was **rich women who thought peasant women were dirt underfoot**.
+5. And most importantly rich women of the past did not care at all about poor women's access to education, this issue was of concern exclusively to men, such as famous figures of the Age of Enlightenment. **Rich women didn't care about poor uneducated women and considered them second class**. And so we debunked another lie of feminists who demonize men - it wasn't really men who thought women were second-class citizens, it was **rich women who thought peasant women were dirt underfoot**.
 
 ## Why do feminists need it?
 
