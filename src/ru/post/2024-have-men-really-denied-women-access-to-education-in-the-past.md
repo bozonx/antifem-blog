@@ -5,7 +5,7 @@ description: Феминистки часто повторяют тезис, чт
 previewText: ""
 descrAsPreview: true
 cover: /media/2024-have-men-really-denied-women-access-to-education-in-the-past.avif
-coverDescr: Картинка сгенерированна нейросетью
+coverDescr: Картинка сгенерированна нейросетью DALL·E 3
 coverAlt: Школа в 19 веке
 commentUrl: ""
 authorId: ivan-k
