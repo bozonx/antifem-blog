@@ -7,7 +7,7 @@ body: |-
   authors:
     - id: "ivan-k"
       name: "Ivan K"
-      descr: "Antifeminist ideologist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
+      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
   postDonateCall: "If you like this project, please support it financially. [Donate](/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Copying allowed only with a link to the source."
