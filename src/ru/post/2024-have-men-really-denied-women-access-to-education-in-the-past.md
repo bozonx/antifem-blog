@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2024-have-men-really-denied-women-access-to-education-in-the-past.avif
 coverDescr: Картинка сгенерированна нейросетью DALL·E 3
 coverAlt: Школа в 19 веке
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/496
 authorId: ivan-k
 tags:
   - история
