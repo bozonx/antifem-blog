@@ -13,10 +13,6 @@ export default {
     en: { lang: "en-US", ...en },
     ru: { lang: "ru-RU", ...ru },
   },
-  themeConfig: {
-    ...configBase.themeConfig,
-    homeBgParalaxOffset: 300,
-  },
 
   head: [
     ...configBase.head,
