@@ -1,6 +1,5 @@
 ---
 description: ""
-layout: page
 ---
 
 # Support us

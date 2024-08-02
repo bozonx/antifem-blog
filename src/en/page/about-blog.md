@@ -1,6 +1,5 @@
 ---
 description: ""
-layout: page
 ---
 
 # About this blog
