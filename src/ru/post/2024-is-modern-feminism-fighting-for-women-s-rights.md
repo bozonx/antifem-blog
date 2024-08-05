@@ -1,6 +1,6 @@
 ---
 title: Борется ли современный феминизм за права женщин?
-date: 2024-02-27T21:04-03:00
+date: 2024-02-27T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

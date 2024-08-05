@@ -1,6 +1,6 @@
 ---
 title: Что ждёт мужчин в будущем, учитывая быстрое развитие ИИ?
-date: 2024-07-07T16:26-03:00
+date: 2024-07-07T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

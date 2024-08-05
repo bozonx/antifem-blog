@@ -1,6 +1,6 @@
 ---
 title: When they say there are many different streams of feminism, they mean to confuse you.
-date: 2024-05-21T20:43-03:00
+date: 2024-05-21T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

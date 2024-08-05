@@ -1,6 +1,6 @@
 ---
 title: "A selection of feminist manipulations in chat rooms #2"
-date: 2024-07-03T16:31-03:00
+date: 2024-07-03T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

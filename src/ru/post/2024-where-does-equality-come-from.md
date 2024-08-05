@@ -1,6 +1,6 @@
 ---
 title: Откуда берется равноправие?
-date: 2024-03-27T20:39-03:00
+date: 2024-03-27T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

@@ -1,6 +1,6 @@
 ---
 title: Have men really denied women access to education in the past?
-date: 2024-07-30T00:00-03:00
+date: 2024-07-30T12:00-03:00
 description: Feminists often repeat the thesis that supposedly evil men prevented women from accessing education, considered them stupid and purposely prevented them from developing. But is it true? Let's get to the bottom of it.
 previewText: ""
 descrAsPreview: true

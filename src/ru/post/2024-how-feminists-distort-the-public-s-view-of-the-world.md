@@ -1,6 +1,6 @@
 ---
 title: Как феминистки искажают видение мира у общественности
-date: 2024-04-12T17:04-03:00
+date: 2024-04-12T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

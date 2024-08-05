@@ -1,6 +1,6 @@
 ---
 title: The overpriced women's products are a lie!
-date: 2024-04-28T16:44-03:00
+date: 2024-04-28T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true

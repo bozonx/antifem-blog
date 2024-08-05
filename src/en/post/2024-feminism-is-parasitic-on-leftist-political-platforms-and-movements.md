@@ -1,6 +1,6 @@
 ---
 title: Feminism is parasitic on leftist political platforms and movements
-date: 2024-03-04T20:52-03:00
+date: 2024-03-04T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
