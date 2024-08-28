@@ -5,6 +5,6 @@ import { useData, inBrowser } from "vitepress";
 const { localeIndex } = useData()
 
 onMounted(() => {
-  if (inBrowser) window.location.href = `/${localeIndex.value}/recent/1`;
+  if (inBrowser) window.location.replace(`/${localeIndex.value}/recent/1`);
 });
 </script>
