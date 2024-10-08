@@ -4,7 +4,7 @@ date: 2024-02-25T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2024-feminism-is-a-leftist-movement.jpg
 coverDescr: ""
 coverAlt: ""
 commentUrl: ""
@@ -12,6 +12,7 @@ authorId: ivan-k
 tags:
   - what feminism is
 ---
+
 Even though almost all leftists are feminists it doesn't mean that feminism is a leftist movement. Marxism, left liberalism and anarchism were not originally feminist, moreover they were patriarchal. But gradually feminists squeezed all the masculists out of these movements and took over.
 
 And now, of course, the femmes claim that these are their movements so that masculists do not even approach them and to impose feminism on everyone who comes to liberal and anarchist chat rooms. Because of this, many masculists had to leave to right-wing movements after the victory of feminism. But that's a mistake - that's what the femmes need, to get us to stop fighting for leftist political platforms and give them to feminists.
