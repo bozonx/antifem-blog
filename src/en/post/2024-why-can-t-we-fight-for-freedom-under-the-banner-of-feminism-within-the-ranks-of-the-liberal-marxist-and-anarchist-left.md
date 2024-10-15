@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/27
 authorId: ivan-k
 tags:
   - politics
 ---
+
 Because that does't make sense - becoming free of autocrats and capitalism, but becoming a slave to the dictatorship of feminism.
 
 Male feminists think they're fighting for freedom, but they're just fighting to bring feminists who are parasitic on leftist movements to power. Once in power, the feminists will make those same men their slaves, because the enemy of feminists is unchanging - men and whether he helped establish the matriarchy and dictatorship of feminism or not, he will be just as enslaved as other men.

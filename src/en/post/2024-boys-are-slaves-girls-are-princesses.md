@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/250
 authorId: ivan-k
 tags:
   - male discrimination
 ---
+
 I, as a representative of the millennial generation, will tell you about the attitude to boys and girls in schools during the 90s and 2000s in Russia.
 
 Female staff of schools, especially teachers of 30+ years were imbued with dislike for men, they, their failures with men, caused by excessive demands to them, projected on the attitude to male students. And male teachers were arrogant and disrespectful of boys and allowed themselves to use harsher punishments and remarks against them, while overprotecting girls.

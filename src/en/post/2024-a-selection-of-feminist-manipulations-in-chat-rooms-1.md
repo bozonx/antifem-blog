@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/410
 authorId: ivan-k
 tags:
   - manipulations
 ---
+
 Manipulations used by feminists in chat rooms to keep other people from knowing the truth.
 
 1. The most common manipulation is to speak from the position of normality, like they are normal and do the right thing, and you are some fools who don't like something, misunderstood something or offended women. The goal here is to prevent others from waking up, so that other people do not take the information from these "fools" seriously. The second goal is to give all the people watching the argument the feeling that they are part of the normal, right and good, and the normal ones are of course feminists.

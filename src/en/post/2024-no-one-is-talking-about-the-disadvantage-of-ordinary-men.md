@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/35
 authorId: ivan-k
 tags:
   - feminist propaganda
 ---
+
 Have you ever thought about the fact that everyone is outraged about various, sometimes invented infringements, but for some reason no one talks about the infringement of ordinary men - the most disenfranchised part of society, and in Western society the most disenfranchised are white heterosexual men.
 
 Everyone is talking about their self-identity, but for some reason no one cares that men have been replaced with weak, weak-willed and feminine identities, and women have been replaced with feminine identities and masculine identities.

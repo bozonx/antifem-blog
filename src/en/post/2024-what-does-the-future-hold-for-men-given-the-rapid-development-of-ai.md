@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/421
 authorId: ivan-k
 tags:
   - technologies
 ---
+
 Artificial intelligence technologies are already changing the world. Businesses are actively reorienting towards AI, especially in the US, and this process is unstoppable, because for business owners it is simply a gold mine - AI works without weekends and breaks and costs 500 times less than a real employee.
 
 Already now AI is being actively implemented in the IT sector, first of all in programming, but the last frontier has not been passed yet, no systems that can create large applications and make changes in them have appeared yet, but it seems that soon enough they will appear, because modern AI can already generate simple applications and websites. The work of illustrators and many photographers has become almost meaningless, the work of designers has become a mere chore.

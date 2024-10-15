@@ -4,14 +4,15 @@ date: 2024-02-27T12:00-03:00
 description: ""
 previewText: ""
 descrAsPreview: true
-cover: ""
+cover: /media/2024-is-modern-feminism-fighting-for-women-s-rights.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/19
 authorId: ivan-k
 tags:
   - history of feminism
 ---
+
 Only early feminism in the late 19th and early 20th century fought for women's rights. As soon as in the early 20th century the females began brainwashing women to establish birth control, which led to a severe decline in birth rates in the nations poisoned by feminism, feminism was born not as a movement for women's rights, but as a movement to deny men's rights, including the most basic rights like children's rights.
 
 The one who distinguished herself in this was [Emma Goldman](https://ru.wikipedia.org/wiki/%D0%93%D0%BE%D0%BB%D1%8C%D0%B4%D0%BC%D0%B0%D0%BD%2C_%D0%AD%D0%BC%D0%BC%D0%B0), a prominent American feminist. She was the one who called for women to take birth control, for which she was arrested back in 1916. Despite her anarchist views, she shifted feminism from a struggle for women's rights to a struggle for power over men.

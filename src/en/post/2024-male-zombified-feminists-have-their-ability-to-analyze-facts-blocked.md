@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/64
 authorId: ivan-k
 tags:
   - feminist propaganda
 ---
+
 For us, of course, the lies of feminism are obvious, because their claims are easily shattered by basic logic. In the same way, I think some feminists realize that they are lying, but they do it to gain exclusive privileges in society, so for them it is a lie for their benefit (only their benefit of course).
 
 But surprisingly, male feminists promote feminism that fights to take away their rights and they don't question feminism. For example, I was once talking to a feminist in a chat room and he asked me to give an example of where men are disadvantaged. I gave the most obvious example - different retirement age in Russia. But interestingly enough, he just couldn't understand what the problem was that women retire earlier than men while living 10 years longer than men. He seemed to have a blocked understanding of it in his head, even though it is a well-known fact.

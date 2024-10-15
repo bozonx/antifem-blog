@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/111
 authorId: ivan-k
 tags:
   - manipulations
 ---
+
 Feminists and feminists are very fond of manipulation, when someone speaks negatively about feminism, that supposedly there are different currents of feminism: yes there is radical feminism, it's bad, but here's ordinary feminism is good, it's for women's rights.
 
 In fact, in modern feminism there are no clearly defined currents. Modern feminism is very integral. Yes, there are radical feminists, but they differ from ordinary feminists only in that they want to destroy men, and ordinary feminists only want to enslave them. By and large this is the only difference, in all other respects these currents are almost identical, moreover it is the same feminism.

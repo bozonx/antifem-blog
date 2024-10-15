@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/20
 authorId: ivan-k
 tags:
   - what feminism is
 ---
+
 Nowadays there is a lot of talk about artificial intelligence and many fear that it will destroy mankind when a strong artificial intelligence is created. There is even an opinion that mankind is an intermediate stage of evolution before the creation of super intelligence. And when it will be created, mankind will not be needed.
 
 But for some reason no one raises the question that feminists for many years have been talking in their communities about the destruction of men to make mankind same-sex. And this is no less important a threat than artificial intelligence.

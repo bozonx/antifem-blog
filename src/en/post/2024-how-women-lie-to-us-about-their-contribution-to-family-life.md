@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/286
 authorId: ivan-k
 tags:
   - female parasitism
 ---
+
 Every woman claims to be a miserable laborer and no help from her husband.
 
 Have you ever seen such families in reality? I personally have never seen one and I have asked people - no one has ever seen a family where the man lies on the couch and the wife works at home.

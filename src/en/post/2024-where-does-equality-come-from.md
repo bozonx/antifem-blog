@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/167
 authorId: ivan-k
 tags:
   - equality
 ---
+
 It's not easy to understand this in a large state, but let's narrow society down to 10 people - 5 men and 5 women, say living on a desert island.
 
 If 5 women refuse to work, but continue to consume the same amount of resources as men, then 5 men will have to work 2 times more to provide food and everything they need. Accordingly, those who contribute more to society get more rights. This was the case under patriarchy - men worked mostly, and they also had more rights.

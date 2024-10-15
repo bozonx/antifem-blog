@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/206
 authorId: ivan-k
 tags:
   - society
 ---
+
 Since childhood, men have been brought up with a false sense of nobility - it is noble to help a woman even without understanding the conflict, and if the conflict is with a man, the man is to blame by default, not her. You should drop all your affairs and rush to help a woman as soon as she demonstrates her predicament, even if she doesn't necessarily ask for it explicitly, but cries, screams or stigmatizes some man.
 
 So nowadays women do not want to be helped - they claim that they are strong and independent and do not need men's help. And if a man helps her, he will be accused of sexual harassment, not rewarded with a sense of accomplished duty to women. So you have to get rid of all that "noble" nonsense that women put into our heads. Not because you're so selfish, but because women don't need help.

@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/228
 authorId: ivan-k
 tags:
   - manipulations
 ---
+
 Feminists argue that angry men spread stereotypes about women's unsafe driving.
 
 The femoc manipulation is very simple - to shift the blame to men. That is, the problem is not that women drive irresponsibly, brazenly and dangerously, but that it is simply that men have slandered them. It also whitewashes women and allows them to continue to behave irresponsibly. And of course they vilify men by making them out to be stupid sexists who sleep and see just to denigrate women.

@@ -7,11 +7,12 @@ descrAsPreview: true
 cover: ""
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/444
 authorId: ivan-k
 tags:
   - birth rate
 ---
+
 Because women have traded having children for material benefits. However, scientists are afraid to name the reason for fear that feminists will deprive them of their careers, but I will, I'm not afraid.
 
 Feminists have indoctrinated women with the idea of taking birth control and trading childbearing for material goods and power over men and all of humanity.

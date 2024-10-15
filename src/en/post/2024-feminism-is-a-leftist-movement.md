@@ -7,7 +7,7 @@ descrAsPreview: true
 cover: /media/2024-feminism-is-a-leftist-movement.jpg
 coverDescr: ""
 coverAlt: ""
-commentUrl: ""
+commentUrl: https://t.me/antifem_battle/5
 authorId: ivan-k
 tags:
   - what feminism is
