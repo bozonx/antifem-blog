@@ -18,10 +18,18 @@ Monero:
 
 ---
 
-USDT(BEP20):
+TON(TON):
 
 ```
-0xD6772BC7A0FE5cD6d695e312CD40759309511c99
+UQCKifnzBeoUSEU187mUfKMEsnrm4QVrARECdCvtOjsdHcme
+```
+
+---
+
+USDT(TON):
+
+```
+UQCKifnzBeoUSEU187mUfKMEsnrm4QVrARECdCvtOjsdHcme
 ```
 
 ---
