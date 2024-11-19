@@ -50,7 +50,7 @@ bc1q7h8uksh2mvdktd5wzkz2h0tg9cxpzf5mtwu493
 
 ---
 
-ETH(ETC20):
+ETH(ERC20):
 
 ```
 0xD6772BC7A0FE5cD6d695e312CD40759309511c99
@@ -58,7 +58,7 @@ ETH(ETC20):
 
 ---
 
-The preferred way to donate is USDT coin in BEP20 network, there is low commission. Another good coin is Monero (XMR), there is also a low commission and transactions are anonymous.
+The preferred way to donate is USDT coin in TON network, there is low commission. Another good coin is Monero (XMR), there is also a low commission and transactions are anonymous.
 
 ---
 

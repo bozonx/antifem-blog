@@ -18,7 +18,7 @@ body: |-
   topBar:
     links:
       - text: "${PROPS.t.links.donate}"
-        href: "${PROPS.theme.donateUrl}"
+        href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl}"
         icon: "${PROPS.theme.donateIcon}"
         mobileToo: true
   #    - text: "${PROPS.t.links.wiki}"
