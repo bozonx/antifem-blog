@@ -107,6 +107,20 @@ collections:
         required: false
         preview: false
         i18n: duplicate
+      - label: "Url to video"
+        name: "videoLink"
+        widget: "string"
+        required: false
+        preview: false
+        i18n: true
+      - label: "Language of the video (set only if not equal to the page lang)"
+        name: "videoLinkLang"
+        widget: select
+        options: ["", "RU", "EN"]
+        default: ""
+        required: false
+        preview: false
+        i18n: true
       - name: tags
         label: Tags
         widget: relation
