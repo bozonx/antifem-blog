@@ -1,6 +1,6 @@
 {
   "name": "antifem-blog",
-  "version": "1.5.0",
+  "version": "1.5.1",
   "description": "Blog of Antifem movement",
   "type": "module",
   "author": "(Ivan Kozyrin <ipkozyrin@gmail.com>)",

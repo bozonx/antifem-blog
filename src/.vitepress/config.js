@@ -27,14 +27,14 @@ export default defineConfig({
       "script",
       {
         async: true,
-        src: "https://www.googletagmanager.com/gtag/js?id=G-W1FK64ZW94",
+        src: "https://www.googletagmanager.com/gtag/js?id=G-M9CWSVHKYS",
       },
     ],
     [
       "script",
       {},
       `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
-       gtag('config', 'G-W1FK64ZW94');`,
+       gtag('config', 'G-M9CWSVHKYS');`,
     ],
   ],
 });
