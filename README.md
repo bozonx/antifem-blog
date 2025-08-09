@@ -1,6 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/6d1452f9-0a5c-4305-96e3-f78cb5a5af5c/deploy-status)](https://app.netlify.com/sites/antifem-blog/deploys)
-
-# Blog of Antifem movement
+# Blog of the Antifeminist movement
 
 ## Run
 
@@ -9,13 +7,14 @@ Use node version: 18 or greater
 - Install dependencies:
 
   ```bash
-  yarn
+  pnpm i
+  pnpm link vitepress-sls-blog-tmpl
   ```
 
 - Run locally:
 
   ```bash
-  yarn dev
+  pnpm dev
   ```
 
   Go to `http://localhost:5173/`
@@ -23,7 +22,7 @@ Use node version: 18 or greater
 - Build and Preview
 
   ```bash
-  yarn build && yarn preview
+  pnpm build && pnpm preview
   ```
 
   Go to `http://localhost:4173/`
@@ -31,6 +30,14 @@ Use node version: 18 or greater
   Local admin panel is on `http://localhost:4173/admin/`
 
 ## Cloudflare
+
+Preview before upload:
+
+```
+pnpm cf:dev
+```
+
+To upload to worker run:
 
 ```
 pnpm cf:deploy

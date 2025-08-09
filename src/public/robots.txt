@@ -1,9 +1,9 @@
 User-agent: *
 Disallow: /admin
+Disallow: /r
 
 Disallow: /*utm_
 Disallow: /*?m=1
 Allow: /
 
-Sitemap: https://blog.antifem-move.org/sitemap.xml
-
+Sitemap: https://blog.antifem.org/sitemap.xml

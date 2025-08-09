@@ -1,8 +1,8 @@
 export const PROPS = {
-  hostname: "https://blog.antifem-move.org",
+  hostname: "https://blog.antifem.org",
   repo: "https://github.com/bozonx/antifem-blog",
-  siteUrl: "https://antifem-move.org",
+  siteUrl: "https://antifem.org",
   footerCopyright: "Copyright © 2024-present Antifem movement.",
-  perPage: 10,
+  perPage: 20,
   paginationMaxItems: 7,
 };
