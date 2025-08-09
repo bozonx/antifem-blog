@@ -1,6 +1,6 @@
 User-agent: *
 Disallow: /admin
-Disallow: /r
+Disallow: /0
 
 Disallow: /*utm_
 Disallow: /*?m=1
