@@ -4,5 +4,4 @@ export const PROPS = {
   siteUrl: "https://antifem.org",
   footerCopyright: "Copyright © 2024-present Antifem movement.",
   perPage: 20,
-  paginationMaxItems: 7,
 };

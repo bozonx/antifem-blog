@@ -17,6 +17,7 @@ export default defineConfig({
   themeConfig: {
     ...configBase.themeConfig,
     sidebarLogoSrc: "/img/sidebar-logo.webp",
+    paginationMaxItems: 7,
   },
   head: [
     ...configBase.head,
@@ -26,7 +27,7 @@ export default defineConfig({
     [
       "script",
       {
-        async: true,
+        async: "",
         src: "https://www.googletagmanager.com/gtag/js?id=G-M9CWSVHKYS",
       },
     ],
