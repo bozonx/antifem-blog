@@ -4,7 +4,7 @@ backend:
   use_graphql: true
   # site_domain: 5ab4c367-3592-4361-a4b8-ccd46514c967
 
-site_url: https://blog.antifem-move.org
+site_url: https://blog.antifem.org
 media_folder: src/public/media
 public_folder: /media
 # media_library:
