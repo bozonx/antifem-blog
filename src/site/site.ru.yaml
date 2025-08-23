@@ -8,6 +8,9 @@ body: |-
     - id: "ivan-k"
       name: "Айван Кей"
       descr: "Мыслитель и практик в области философии свободы, идеолог антифеминизма, анархист.\n\n[подробней](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
+    - id: "ilya-goryunov"
+      name: "Илья Горюнов"
+      descr: "Антифеминист"
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."

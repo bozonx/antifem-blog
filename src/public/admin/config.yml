@@ -103,7 +103,7 @@ collections:
       - name: authorId
         label: Author
         widget: select
-        options: ["ivan-k"]
+        options: ["ivan-k", "ilya-goryunov"]
         required: false
         preview: false
         i18n: duplicate
