@@ -1,6 +1,7 @@
 {
   "name": "Blog of Antifem movement",
   "short_name": "Antifem blog",
+  "description": "Blog of the Antifeminist movement",
   "icons": [
     {
       "src": "/img/android-chrome-192x192.png",
@@ -16,5 +17,7 @@
   "theme_color": "#000000",
   "background_color": "#000000",
   "start_url": "/",
+  "scope": "/",
+  "orientation": "portrait-primary",
   "display": "standalone"
 }
