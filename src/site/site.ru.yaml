@@ -11,6 +11,10 @@ body: |-
     - id: "ilya-goryunov"
       name: "Илья Горюнов"
       descr: "Антифеминист"
+  publisher:
+    name: "Блог движения Антифеминизм"
+    url: "${PROPS.siteUrl}/${PROPS.lang}"
+    logo: "${PROPS.siteUrl}/img/home-logo.webp"
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
