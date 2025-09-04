@@ -12,7 +12,7 @@ body: |-
       name: "Илья Горюнов"
       descr: "Антифеминист"
   publisher:
-    name: "Блог движения Антифеминизм"
+    name: "Движение Антифеминизм"
     url: "${PROPS.siteUrl}/${PROPS.lang}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово. [Пожертвовать](${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.donateUrl})"
