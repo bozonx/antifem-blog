@@ -4,6 +4,8 @@ date: 2025-08-23T12:00-03:00
 description: ''
 previewText: ''
 descrAsPreview: true
+canonical: ''
+jsonLd: ''
 cover: ''
 coverDescr: ''
 coverAlt: ''
