@@ -13,12 +13,12 @@ const postsDir = path.resolve(
 
 /**
  * Загружает все посты из директории postsDir
- * @param {Array} watchedFiles - массив файлов, отслеживаемых VitePress (может быть пустым)
+ * @param {boolean} ignoreCache - если true, игнорирует кэш и перечитывает посты
  * @returns {Promise<Array>} массив обработанных постов
  */
-export async function getPosts(watchedFiles) {
-  // Если кэш уже заполнен, возвращаем его
-  if (posts.length > 0) {
+export async function getCachedPosts(ignoreCache = false) {
+  // Если кэш уже заполнен и не требуется игнорировать кэш, возвращаем его
+  if (posts.length > 0 && !ignoreCache) {
     return posts;
   }
 

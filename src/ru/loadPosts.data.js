@@ -1,13 +1,13 @@
-import { makePreviewItem } from "vitepress-sls-blog-tmpl/makePreviewItem.js";
 import { POSTS_DIR } from "vitepress-sls-blog-tmpl/constants.js";
-import { getPosts } from "./cachePosts.js";
+import { getCachedPosts } from "./cachePosts.js";
 
 export default {
   watch: [`./${POSTS_DIR}/*.md`],
   async load(watchedFiles) {
+    const isDevMode = process.env.NODE_ENV !== "production";
+
     return {
-      // posts: watchedFiles.map((item) => makePreviewItem(item)),
-      posts: await getPosts(watchedFiles),
+      posts: await getCachedPosts(watchedFiles, isDevMode),
     };
   },
 };
