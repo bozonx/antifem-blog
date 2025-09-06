@@ -1,7 +1,8 @@
 import path from "path";
-import { getCachedPosts } from "vitepress-sls-blog-tmpl/getCachedPosts.js";
+import { loadPosts } from "vitepress-sls-blog-tmpl/loadPosts.js";
 import { POSTS_DIR } from "vitepress-sls-blog-tmpl/constants.js";
 
+let posts = [];
 const postsDir = path.resolve(
   path.dirname(import.meta.url.replace("file://", "")),
   "./",
@@ -9,5 +10,9 @@ const postsDir = path.resolve(
 );
 
 export default async function (ignoreCache = false) {
-  return getCachedPosts(postsDir, ignoreCache);
+  if (posts.length > 0 && !ignoreCache) return posts;
+
+  posts = await loadPosts(postsDir);
+
+  return posts;
 }
