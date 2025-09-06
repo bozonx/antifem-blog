@@ -8,11 +8,6 @@ const postsDir = path.resolve(
   POSTS_DIR
 );
 
-/**
- * Загружает все посты из директории postsDir
- * @param {boolean} ignoreCache - если true, игнорирует кэш и перечитывает посты
- * @returns {Promise<Array>} массив обработанных постов
- */
 export default async function (ignoreCache = false) {
   return getCachedPosts(postsDir, ignoreCache);
 }
