@@ -18,7 +18,9 @@ const postsDir = path.resolve(
  */
 export async function getCachedPosts(ignoreCache = false) {
   // Если кэш уже заполнен и не требуется игнорировать кэш, возвращаем его
-  if (posts.length > 0 && !ignoreCache) return posts;
+  if (posts.length > 0 && !ignoreCache) {
+    return posts;
+  }
 
   try {
     // Читаем все файлы из директории postsDir
