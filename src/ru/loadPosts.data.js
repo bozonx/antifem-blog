@@ -1,5 +1,5 @@
 import { POSTS_DIR } from "vitepress-sls-blog-tmpl/constants.js";
-import getCachedPosts from "./cachePosts.js";
+import getCachedPosts from "./cachedPosts.js";
 
 export default {
   watch: [`./${POSTS_DIR}/*.md`],
