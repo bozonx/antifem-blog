@@ -16,7 +16,7 @@ const { theme, params, localeIndex } = useData()
 const posts = inject('posts')
 </script>
 
-# {{theme.authors.find((item) => item.id === params.id)?.name}}
+# {{theme.authors.find((item) => item.id === params.id)?.name || 'Name not found'}}
 
 <AuthorDetails
   :allPosts="posts[localeIndex]"
