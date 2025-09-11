@@ -8,6 +8,9 @@ body: |-
     - id: "ivan-k"
       name: "Ivan K"
       descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
+    - id: "ilya-goryunov"
+      name: "Ilya Goryunov"
+      descr: "Antifeminist"
   publisher:
     name: "Antifeminist movement"
     url: "${PROPS.siteUrl}/${PROPS.lang}"
