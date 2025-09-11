@@ -1,6 +1,6 @@
 ---
-layout: util
 title: "{{theme.t.months[params.month - 1]}} {{params.year}}"
+layout: util
 head:
   - - meta
     - name: robots
