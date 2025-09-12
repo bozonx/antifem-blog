@@ -8,6 +8,11 @@ body: |-
     - id: "ivan-k"
       name: "Айван Кей"
       descr: "Мыслитель и практик в области философии свободы, идеолог антифеминизма, анархист.\n\n[подробней](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
+      image: "https://p-libereco.org/media/ivan-k.avif"
+      links:
+        - type: "youtube"
+          url: "https://www.youtube.com/@ivan-k-freedom"
+          title: "YouTube канал Айван Кей"
     - id: "ilya-goryunov"
       name: "Илья Горюнов"
       descr: "Антифеминист"
