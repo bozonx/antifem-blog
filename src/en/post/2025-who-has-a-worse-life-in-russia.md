@@ -1,15 +1,15 @@
 ---
 title: Who has a worse life in Russia
-date: 2025-08-23T12:00-03:00
+date: 2025-08-23T00:00-03:00
 description: ''
 previewText: ''
 descrAsPreview: true
-canonical: ''
+canonical: self
 jsonLd: ''
 cover: ''
 coverDescr: ''
 coverAlt: ''
-commentUrl: ''
+commentUrl: https://t.me/antifem_battle/1740
 authorId: ilya-goryunov
 videoLink: ''
 videoLinkLang: ''
