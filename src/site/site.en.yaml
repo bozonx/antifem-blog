@@ -10,6 +10,9 @@ body: |-
       descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
       image: "https://p-libereco.org/media/ivan-k.avif"
       links:
+        - type: "site"
+          url: "https://p-libereco.org/${PROPS.lang}/doc/ivan-k"
+          title: "About Ivan K"
         - type: "youtube"
           url: "https://www.youtube.com/@ivan-k-freedom"
           title: "YouTube channel Ivan K (RU)"
