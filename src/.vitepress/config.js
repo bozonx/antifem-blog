@@ -2,24 +2,15 @@ import { defineConfig } from "vitepress";
 import blogConfigBase from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
 import { PROPS } from "./props.js";
-// import enCachePosts from "../en/cachePosts.js";
-// import ruCachePosts from "../ru/cachePosts.js";
-
-const ru = loadBlogLocale("ru", __filename, PROPS);
-const en = loadBlogLocale("en", __filename, PROPS);
-const configBase = blogConfigBase(PROPS, en);
 
 export default async () => {
-  // const postsEn = await enCachePosts();
-  // const postsRu = await ruCachePosts();
+  const ru = await loadBlogLocale("ru", __filename, PROPS);
+  const en = await loadBlogLocale("en", __filename, PROPS);
+  const configBase = blogConfigBase(PROPS, en);
 
   return defineConfig({
     ...configBase,
 
-    // posts: {
-    //   en: postsEn,
-    //   ru: postsRu,
-    // },
     locales: {
       ...configBase.locales,
       en: { lang: "en-US", ...en },

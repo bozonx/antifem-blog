@@ -8,7 +8,7 @@ body: |-
     - id: "ivan-k"
       name: "Ivan K"
       descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
-      image: "https://p-libereco.org/media/ivan-k.avif"
+      image: "/media/ivan-k.webp"
       links:
         - type: "site"
           url: "https://p-libereco.org/${PROPS.lang}/doc/ivan-k"
