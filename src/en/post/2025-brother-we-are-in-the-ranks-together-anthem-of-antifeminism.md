@@ -17,7 +17,7 @@ tags:
   - antifeminism
 ---
 
-<AudioFile url="/media/Брат, мы вместе в строю - гимн Антифеминизма.mp3" />
+https://t.me/antifem_battle/1817
 
 Brother, we are in the ranks together.,  
 For the rights of men, for their freedom!  
