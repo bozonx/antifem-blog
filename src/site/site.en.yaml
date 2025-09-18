@@ -4,9 +4,12 @@ body: |-
   description: "News, articles and events of the Anti-Feminism movement. We are fighting against feminism because we are for equality!"
   siteTitle: "Blog of the Antifeminist movement"
 
+  donate:
+    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "Antifeminist movement"
-    url: "${PROPS.siteUrl}/${PROPS.lang}"
+    url: "${PROPS.siteUrl}/${lang}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
@@ -15,7 +18,7 @@ body: |-
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
-          url: "https://p-libereco.org/${PROPS.lang}/doc/ivan-k"
+          url: "https://p-libereco.org/${lang}/doc/ivan-k"
           title: "About Ivan K"
         - type: "youtube"
           url: "https://www.youtube.com/@ivan-k-freedom"
@@ -27,7 +30,7 @@ body: |-
     message: "Copying allowed only with a link to the source."
     copyright: "Copyright © 2024-present International Antifeminist movement."
     links:
-     - text: "${PROPS.t.links.aboutBlog}"
+     - text: "${t.links.aboutBlog}"
        href: "page/about-blog"
   topBar:
     donate: true
@@ -41,20 +44,16 @@ body: |-
     rssFeed: true
     atomFeed: true
     bottomLinks:
-  #    - text: "${PROPS.t.links.guide}"
-  #      href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.docUrl}"
-  #      icon: "${PROPS.theme.docIcon}"
-  #      mobile: true
-      - { header: "${PROPS.t.links.links}" }
-      - text: "${PROPS.t.links.ourTelegramChannel} (RU)"
+      - { header: "${t.links.links}" }
+      - text: "${t.links.ourTelegramChannel} (RU)"
         href: "https://t.me/antifem_battle"
-        icon: "${PROPS.theme.telegramIcon}"
+        icon: "${theme.telegramIcon}"
       - text: "Youtube channel (RU)"
         href: "https://www.youtube.com/@antifem-move"
-        icon: "${PROPS.theme.youtubeIcon}"
-      - text: "${PROPS.t.links.ourTelegramChat} (RU)"
+        icon: "${theme.youtubeIcon}"
+      - text: "${t.links.ourTelegramChat} (RU)"
         href: "https://t.me/antifem_battle_chat"
-        icon: "${PROPS.theme.chatIcon}"
-  #    - text: "${PROPS.t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.linksUrl}"
-  #      icon: "${PROPS.theme.socialLinksIcon}"
+        icon: "${theme.chatIcon}"
+  #    - text: "${t.links.weInSocialMedia}"
+  #      href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+  #      icon: "${theme.socialLinksIcon}"

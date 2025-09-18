@@ -4,9 +4,12 @@ body: |-
   description: "Новости, статьи и события движения Антифеминизма. Боремся против феминизма потому что мы за равноправие!"
   siteTitle: "Блог движения Антифеминизм"
 
+  donate:
+    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Движение Антифеминизм"
-    url: "${PROPS.siteUrl}/${PROPS.lang}"
+    url: "${PROPS.siteUrl}/${lang}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
@@ -15,7 +18,7 @@ body: |-
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
-          url: "https://p-libereco.org/${PROPS.lang}/doc/ivan-k"
+          url: "https://p-libereco.org/${lang}/doc/ivan-k"
           title: "Об Айване Кей"
         - type: "youtube"
           url: "https://www.youtube.com/@ivan-k-freedom"
@@ -27,7 +30,7 @@ body: |-
     message: "Копирование разрешено только со ссылкой на источник."
     copyright: "Copyright © 2024-present International Antifeminist movement."
     links:
-     - text: "${PROPS.t.links.aboutBlog}"
+     - text: "${t.links.aboutBlog}"
        href: "page/about-blog"
   topBar:
     donate: true
@@ -41,16 +44,16 @@ body: |-
     rssFeed: true
     atomFeed: true
     bottomLinks:
-      - { header: "${PROPS.t.links.links}" }
-      - text: "${PROPS.t.links.ourTelegramChannel}"
+      - { header: "${t.links.links}" }
+      - text: "${t.links.ourTelegramChannel}"
         href: "https://t.me/antifem_battle"
-        icon: "${PROPS.theme.telegramIcon}"
+        icon: "${theme.telegramIcon}"
       - text: "Youtube канал"
         href: "https://www.youtube.com/@antifem-move"
-        icon: "${PROPS.theme.youtubeIcon}"
-      - text: "${PROPS.t.links.ourTelegramChat}"
+        icon: "${theme.youtubeIcon}"
+      - text: "${t.links.ourTelegramChat}"
         href: "https://t.me/antifem_battle_chat"
-        icon: "${PROPS.theme.chatIcon}"
-  #    - text: "${PROPS.t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${PROPS.lang}/${PROPS.theme.linksUrl}"
-  #      icon: "${PROPS.theme.socialLinksIcon}"
+        icon: "${theme.chatIcon}"
+  #    - text: "${t.links.weInSocialMedia}"
+  #      href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+  #      icon: "${theme.socialLinksIcon}"
