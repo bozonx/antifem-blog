@@ -34,24 +34,30 @@ body: |-
        href: "page/about-blog"
   topBar:
     donate: true
-    guide: false
+    socialLinks:
+      - icon: 'fa6-brands:github-alt'
+        href: "${PROPS.repo}"
+        title: 'This blog on Github'
   sideBar:
     recent: true
     archive: true
     authors: true
     donate: true
-    guide: false
     rssFeed: true
     atomFeed: true
+    socialLinks:
+      - icon: 'fa6-brands:github-alt'
+        href: "${PROPS.repo}"
+        title: 'This blog on Github'
     bottomLinks:
       - { header: "${t.links.links}" }
-      - text: "${t.links.ourTelegramChannel} (RU)"
+      - text: "Our Telegram channel (RU)"
         href: "https://t.me/antifem_battle"
         icon: "${theme.telegramIcon}"
       - text: "Youtube channel (RU)"
         href: "https://www.youtube.com/@antifem-move"
         icon: "${theme.youtubeIcon}"
-      - text: "${t.links.ourTelegramChat} (RU)"
+      - text: "Our Telegram chat (RU)"
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
