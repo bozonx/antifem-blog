@@ -8,7 +8,6 @@ import HomeHero from 'vitepress-sls-blog-tmpl/HomeHero.vue'
 import UtilPageContent from 'vitepress-sls-blog-tmpl/UtilPageContent.vue'
 import { useData } from 'vitepress'
 import { data } from './loadPosts.data.js'
-import { PROPS } from "../.vitepress/props.js";
 
 const { theme, localeIndex } = useData()
 
@@ -28,13 +27,13 @@ const hero = {
       icon: theme.value.docIcon,
     },*/
     {
-      text: `${theme.value.t.links.ourTelegramChannel}`,
+      text: `Наш Telegram канал`,
       href: "https://t.me/antifem_battle",
       icon: theme.value.telegramIcon,
     },
     {
       text: theme.value.t.links.donate,
-      href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.donateUrl}`,
+      href: `${theme.value.donate.url}`,
       icon: theme.value.donateIcon,
     },
   ],

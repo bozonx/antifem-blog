@@ -1,20 +1,21 @@
 title: site
 body: |-
+  lang: "en-US"
   title: "Blog of the Antifeminist movement"
   description: "News, articles and events of the Anti-Feminism movement. We are fighting against feminism because we are for equality!"
   siteTitle: "Blog of the Antifeminist movement"
 
   donate:
-    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "Antifeminist movement"
-    url: "${PROPS.siteUrl}/${localeIndex}"
-    logo: "${PROPS.siteUrl}/img/home-logo.webp"
+    url: "${theme.siteUrl}/${localeIndex}"
+    logo: "${theme.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
       name: "Ivan K"
-      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.localeIndex}/doc/ivan-k)"
+      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${theme.localeIndex}/doc/ivan-k)"
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
@@ -36,7 +37,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'This blog on Github'
         desktopOnly: true
   sideBar:
@@ -48,7 +49,7 @@ body: |-
     atomFeed: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'This blog on Github'
     bottomLinks:
       - { header: "${t.links.links}" }
@@ -62,5 +63,5 @@ body: |-
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
+  #      href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
   #      icon: "${theme.socialLinksIcon}"

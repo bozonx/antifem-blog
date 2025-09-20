@@ -1,16 +1,17 @@
 title: site
 body: |-
+  lang: "ru-RU"
   title: "Блог движения Антифеминизм"
   description: "Новости, статьи и события движения Антифеминизма. Боремся против феминизма потому что мы за равноправие!"
   siteTitle: "Блог движения Антифеминизм"
 
   donate:
-    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Движение Антифеминизм"
-    url: "${PROPS.siteUrl}/${localeIndex}"
-    logo: "${PROPS.siteUrl}/img/home-logo.webp"
+    url: "${theme.siteUrl}/${localeIndex}"
+    logo: "${theme.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
       name: "Айван Кей"
@@ -36,7 +37,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'Этот блог на Github'
         desktopOnly: true
   sideBar:
@@ -48,7 +49,7 @@ body: |-
     atomFeed: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${PROPS.repo}"
+        href: "${theme.repo}"
         title: 'Этот блог на Github'
     bottomLinks:
       - { header: "${t.links.links}" }
@@ -62,5 +63,5 @@ body: |-
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
+  #      href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
   #      icon: "${theme.socialLinksIcon}"
