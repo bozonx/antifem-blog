@@ -5,20 +5,20 @@ body: |-
   siteTitle: "Blog of the Antifeminist movement"
 
   donate:
-    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "Antifeminist movement"
-    url: "${PROPS.siteUrl}/${lang}"
+    url: "${PROPS.siteUrl}/${localeIndex}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
       name: "Ivan K"
-      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.lang}/doc/ivan-k)"
+      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${PROPS.localeIndex}/doc/ivan-k)"
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
-          url: "https://p-libereco.org/${lang}/doc/ivan-k"
+          url: "https://p-libereco.org/${localeIndex}/doc/ivan-k"
           title: "About Ivan K"
         - type: "youtube"
           url: "https://www.youtube.com/@ivan-k-freedom"
@@ -62,5 +62,5 @@ body: |-
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+  #      href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
   #      icon: "${theme.socialLinksIcon}"

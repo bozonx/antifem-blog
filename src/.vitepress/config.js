@@ -3,6 +3,8 @@ import blogConfigBase from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
 import { PROPS } from "./props.js";
 
+export const PER_PAGE = 20;
+
 export default async () => {
   const ru = await loadBlogLocale("ru", __filename, PROPS);
   const en = await loadBlogLocale("en", __filename, PROPS);

@@ -5,11 +5,11 @@ body: |-
   siteTitle: "Блог движения Антифеминизм"
 
   donate:
-    url: "${PROPS.siteUrl}/${lang}/${theme.donateUrl}"
+    url: "${PROPS.siteUrl}/${localeIndex}/${theme.donateUrl}"
     postDonateCall: "Если вам нравится этот проект поддержите его пожалуйста финансово."
   publisher:
     name: "Движение Антифеминизм"
-    url: "${PROPS.siteUrl}/${lang}"
+    url: "${PROPS.siteUrl}/${localeIndex}"
     logo: "${PROPS.siteUrl}/img/home-logo.webp"
   authors:
     - id: "ivan-k"
@@ -18,7 +18,7 @@ body: |-
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
-          url: "https://p-libereco.org/${lang}/doc/ivan-k"
+          url: "https://p-libereco.org/${localeIndex}/doc/ivan-k"
           title: "Об Айване Кей"
         - type: "youtube"
           url: "https://www.youtube.com/@ivan-k-freedom"
@@ -62,5 +62,5 @@ body: |-
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
-  #      href: "${PROPS.siteUrl}/${lang}/${theme.linksUrl}"
+  #      href: "${PROPS.siteUrl}/${localeIndex}/${theme.linksUrl}"
   #      icon: "${theme.socialLinksIcon}"
