@@ -6,7 +6,7 @@ body: |-
   siteTitle: "Blog of the Antifeminist movement"
 
   donate:
-    url: "${theme.siteUrl}/${localeIndex}/${theme.donateUrl}"
+    url: "${theme.siteUrl}/${localeIndex}/page/donate"
     postDonateCall: "If you like this project, please support it financially."
   publisher:
     name: "Antifeminist movement"
@@ -63,5 +63,5 @@ body: |-
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"
-  #      href: "${theme.siteUrl}/${localeIndex}/${theme.linksUrl}"
+  #      href: "${theme.siteUrl}/${localeIndex}/page/links"
   #      icon: "${theme.socialLinksIcon}"
