@@ -17,7 +17,7 @@ tags:
   - antifeminism
 ---
 
-https://t.me/antifem_battle/1817
+[You can listen it here](https://t.me/antifem_battle/1817)
 
 Brother, we are in the ranks together.,  
 For the rights of men, for their freedom!  
