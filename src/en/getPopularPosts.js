@@ -1,8 +1,8 @@
 import path from "path";
-import { loadPosts } from "vitepress-sls-blog-tmpl/loadPosts.js";
+import { loadPopularPosts } from "vitepress-sls-blog-tmpl/loadPopularPosts.js";
 
 const localeDir = path.dirname(import.meta.url.replace("file://", ""));
 
 export default async function (ignoreCache = false) {
-  return loadPosts(localeDir, ignoreCache);
+  return loadPopularPosts(localeDir, ignoreCache);
 }
