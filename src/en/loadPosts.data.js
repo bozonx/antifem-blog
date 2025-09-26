@@ -2,14 +2,14 @@ import path from "path";
 import { POSTS_DIR } from "vitepress-sls-blog-tmpl/constants.js";
 import { loadPostsData } from "vitepress-sls-blog-tmpl/loadPosts.js";
 
-const config = globalThis.VITEPRESS_CONFIG;
 const localeDir = path.dirname(import.meta.url.replace("file://", ""));
+const config = globalThis.VITEPRESS_CONFIG;
 
 export default {
   watch: [`./${POSTS_DIR}/*.md`],
-  async load(watchedFiles) {
+  load(watchedFiles) {
     return {
-      posts: await loadPostsData(
+      posts: loadPostsData(
         localeDir,
         config,
         process.env.NODE_ENV !== "production"

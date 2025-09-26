@@ -7,9 +7,9 @@ const localeDir = path.dirname(import.meta.url.replace("file://", ""));
 
 export default {
   watch: [`./${POSTS_DIR}/*.md`],
-  async load(watchedFiles) {
+  load(watchedFiles) {
     return {
-      posts: await loadPostsData(
+      posts: loadPostsData(
         localeDir,
         config,
         watchedFiles,

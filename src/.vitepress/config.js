@@ -16,8 +16,9 @@ export default async () => {
       sidebarLogoSrc: "/img/sidebar-logo.webp",
 
       googleAnalytics: {
-        propertyId: "G-M9CWSVHKYS",
-        credentialsPath: null,
+        propertyId: "500486823",
+        credentialsPath:
+          "/home/ivan/disk2/workspace/antifem-blog/ga-credentials.json",
       },
 
       popularPosts: {
