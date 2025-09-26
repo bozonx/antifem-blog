@@ -14,6 +14,25 @@ export default async () => {
       siteUrl: "https://antifem.org",
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
+
+      googleAnalytics: {
+        version: "ga4",
+        propertyId: "G-M9CWSVHKYS",
+        credentialsPath: null,
+        dataPeriodDays: 30,
+      },
+
+      // Popular posts configuration
+      popularPosts: {
+        // Включить генерацию популярных постов во время сборки
+        enabled: true,
+        // Тип аналитики: 'google' или 'mock'
+        type: "mock",
+
+        // Общие настройки
+        sortBy: "pageviews",
+        postsCount: 10,
+      },
     },
     head: [
       // do not recognize telephone numbers on the page
