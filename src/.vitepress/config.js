@@ -28,10 +28,8 @@ export default async () => {
         enabled: true,
         // Тип аналитики: 'google' или 'mock'
         type: "mock",
-
         // Общие настройки
         sortBy: "pageviews",
-        postsCount: 10,
       },
     },
     head: [
