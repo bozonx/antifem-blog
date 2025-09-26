@@ -5,6 +5,8 @@
 /docs
 .wrangler
 
+ga-credentials.json
+
 
 # Logs
 logs

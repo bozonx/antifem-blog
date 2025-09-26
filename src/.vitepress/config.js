@@ -16,20 +16,12 @@ export default async () => {
       sidebarLogoSrc: "/img/sidebar-logo.webp",
 
       googleAnalytics: {
-        version: "ga4",
         propertyId: "G-M9CWSVHKYS",
         credentialsPath: null,
-        dataPeriodDays: 30,
       },
 
-      // Popular posts configuration
       popularPosts: {
-        // Включить генерацию популярных постов во время сборки
         enabled: true,
-        // Тип аналитики: 'google' или 'mock'
-        type: "mock",
-        // Общие настройки
-        sortBy: "pageviews",
       },
     },
     head: [
