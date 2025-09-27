@@ -16,8 +16,6 @@ const { params, localeIndex, frontmatter} = useData()
 const posts = inject('posts')
 </script>
 
-# {{frontmatter.title}}
-
 <MonthPostsList
   :allPosts="posts[localeIndex]"
   :year="params.year"

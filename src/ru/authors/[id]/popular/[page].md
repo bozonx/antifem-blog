@@ -13,8 +13,6 @@ const { theme, params, localeIndex, frontmatter } = useData()
 const posts = inject('posts')
 </script>
 
-# {{frontmatter.title}}
-
 <AuthorDetails
   :allPosts="posts[localeIndex]"
   :authorId="params.id"

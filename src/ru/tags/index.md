@@ -16,6 +16,4 @@ const { localeIndex, frontmatter } = useData()
 const posts = inject('posts')
 </script>
 
-# {{frontmatter.title}}
-
 <AllTagsList :allPosts="posts[localeIndex]" />
