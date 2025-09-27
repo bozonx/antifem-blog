@@ -16,8 +16,6 @@ const { theme, params, localeIndex, frontmatter } = useData()
 const posts = inject('posts')
 </script>
 
-# {{frontmatter.title}}
-
 <TagPostsList
   :allPosts="posts[localeIndex]"
   :curPage="params.page"
