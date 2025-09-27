@@ -60,7 +60,7 @@ body: |-
       - text: "Youtube канал"
         href: "https://www.youtube.com/@antifem-move"
         icon: "${theme.youtubeIcon}"
-      - text: "Наш Telegram чат"
+      - text: "Наш чат в Telegram"
         href: "https://t.me/antifem_battle_chat"
         icon: "${theme.chatIcon}"
   #    - text: "${t.links.weInSocialMedia}"

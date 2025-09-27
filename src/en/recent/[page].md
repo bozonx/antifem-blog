@@ -1,5 +1,5 @@
 ---
-title: "{{theme.t.allPosts}}"
+title: "{{theme.t.recentPosts}}"
 layout: util
 head:
   - - meta
