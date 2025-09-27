@@ -41,6 +41,7 @@ body: |-
         title: 'Этот блог на Github'
         desktopOnly: true
   sideBar:
+    popular: true
     recent: true
     archive: true
     authors: true
