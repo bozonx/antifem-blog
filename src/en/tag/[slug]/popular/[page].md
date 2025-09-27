@@ -21,8 +21,6 @@ const posts = inject('posts')
 <TagPostsList
   :allPosts="posts[localeIndex]"
   :curPage="params.page"
-  :perPage="theme.perPage"
-  :paginationMaxItems="theme.paginationMaxItems"
   :tagName="params.name"
   :tagSlug="params.slug"
 />

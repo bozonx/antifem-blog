@@ -21,6 +21,4 @@ const posts = inject('posts')
 <PopularPostsList
   :allPosts="posts[localeIndex]"
   :curPage="params.page"
-  :perPage="theme.perPage"
-  :paginationMaxItems="theme.paginationMaxItems"
 />

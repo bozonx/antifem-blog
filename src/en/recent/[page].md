@@ -21,6 +21,4 @@ const posts = inject('posts')
 <RecentList
   :allPosts="posts[localeIndex]"
   :curPage="params.page"
-  :perPage="theme.perPage"
-  :paginationMaxItems="theme.paginationMaxItems"
 />
