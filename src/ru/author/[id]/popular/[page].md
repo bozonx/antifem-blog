@@ -1,14 +1,11 @@
 ---
-title: "{{theme.t.popularPosts}}"
+title: "{{theme.authors.find((item) => item.id === params.id)?.
+name}}"
 layout: util
-head:
-  - - meta
-    - name: robots
-      content: noindex
 ---
 
 <script setup>
-import PopularPostsList from 'vitepress-sls-blog-tmpl/PopularPostsList.vue'
+import AuthorDetails from 'vitepress-sls-blog-tmpl/AuthorDetails.vue'
 import { useData } from 'vitepress'
 import { inject } from 'vue'
 
@@ -18,7 +15,10 @@ const posts = inject('posts')
 
 # {{frontmatter.title}}
 
-<PopularPostsList
+<AuthorDetails
   :allPosts="posts[localeIndex]"
+  :authorId="params.id"
   :curPage="params.page"
+  :perPage="theme.perPage"
+  :paginationMaxItems="theme.paginationMaxItems"
 />

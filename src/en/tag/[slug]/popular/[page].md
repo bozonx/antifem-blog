@@ -1,5 +1,5 @@
 ---
-title: "{{theme.t.popularPosts}}"
+title: "{{theme.t.tagPageHeader}}: {{params.name}}"
 layout: util
 head:
   - - meta
@@ -8,7 +8,7 @@ head:
 ---
 
 <script setup>
-import PopularPostsList from 'vitepress-sls-blog-tmpl/PopularPostsList.vue'
+import TagPostsList from 'vitepress-sls-blog-tmpl/TagPostsList.vue'
 import { useData } from 'vitepress'
 import { inject } from 'vue'
 
@@ -18,7 +18,11 @@ const posts = inject('posts')
 
 # {{frontmatter.title}}
 
-<PopularPostsList
+<TagPostsList
   :allPosts="posts[localeIndex]"
   :curPage="params.page"
+  :perPage="theme.perPage"
+  :paginationMaxItems="theme.paginationMaxItems"
+  :tagName="params.name"
+  :tagSlug="params.slug"
 />
