@@ -21,4 +21,5 @@ const posts = inject('posts')
   :curPage="params.page"
   :tagName="params.name"
   :tagSlug="params.slug"
+  :showPopularPostsSwitch="true"
 />
