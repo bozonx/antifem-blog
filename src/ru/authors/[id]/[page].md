@@ -17,4 +17,5 @@ const posts = inject('posts')
   :allPosts="posts[localeIndex]"
   :authorId="params.id"
   :curPage="params.page"
+  :showPopularPostsSwitch="true"
 />

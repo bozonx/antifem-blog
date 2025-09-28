@@ -20,4 +20,5 @@ const posts = inject('posts')
   :allPosts="posts[localeIndex]"
   :year="params.year"
   :curPage="params.page"
+  :showPopularPostsSwitch="true"
 />
