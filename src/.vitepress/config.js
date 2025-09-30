@@ -8,7 +8,7 @@ export const PER_PAGE = 2;
 export default async () => {
   const config = defineConfig({
     srcDir: path.resolve(__dirname, "../"),
-    hostname: "https://blog.antifem.org",
+    siteUrl: "https://blog.antifem.org",
     themeConfig: {
       repo: "https://github.com/bozonx/antifem-blog",
       siteUrl: "https://antifem.org",
