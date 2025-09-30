@@ -37,7 +37,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${theme.repo}"
+        href: "${config.repo}"
         title: 'Этот блог на Github'
         desktopOnly: true
   sideBar:
@@ -50,7 +50,7 @@ body: |-
     atomFeed: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${theme.repo}"
+        href: "${config.repo}"
         title: 'Этот блог на Github'
     bottomLinks:
       - { header: "${t.links.links}" }
