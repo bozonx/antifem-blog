@@ -10,15 +10,13 @@ head:
 <script setup>
 import TagPostsList from 'vitepress-sls-blog-tmpl/TagPostsList.vue'
 import { useData } from 'vitepress'
-import { inject } from 'vue'
 
-const { theme, params, localeIndex, frontmatter } = useData()
-const posts = inject('posts')
+const { params } = useData()
 </script>
 
 <TagPostsList
-  :allPosts="posts[localeIndex]"
   :curPage="params.page"
   :tagName="params.name"
   :tagSlug="params.slug"
+  :showPopularPostsSwitch="true"
 />

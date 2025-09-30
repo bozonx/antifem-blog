@@ -21,14 +21,9 @@ const hero = {
       href: `${theme.value.recentBaseUrl}/1`,
       primary: true,
     },
-/*    {
-      text: theme.value.t.links.wiki,
-      href: `${PROPS.siteUrl}/${localeIndex.value}/${theme.value.docUrl}`,
-      icon: theme.value.docIcon,
-    },*/
     {
       text: `Наш Telegram канал`,
-      href: "https://t.me/antifem_battle",
+      href: theme.value.ruTgChannel,
       icon: theme.value.telegramIcon,
     },
     {

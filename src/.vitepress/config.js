@@ -11,7 +11,6 @@ export default async () => {
     siteUrl: "https://blog.antifem.org",
     themeConfig: {
       repo: "https://github.com/bozonx/antifem-blog",
-      siteUrl: "https://antifem.org",
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
 
@@ -25,6 +24,13 @@ export default async () => {
         enabled: true,
         sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
       },
+
+      ////// specific to this blog
+      ruTgChannel: "https://t.me/antifem_battle",
+      ruIvanKYoutubeChannel: "https://www.youtube.com/@ivan-k-freedom",
+      ruYoutubeChannel: "https://www.youtube.com/@antifem-move",
+      rTgChat: "https://t.me/antifem_battle_chat",
+      mainSiteUrl: "https://antifem.org",
     },
     head: [
       // do not recognize telephone numbers on the page
