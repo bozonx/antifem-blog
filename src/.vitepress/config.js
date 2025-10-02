@@ -3,7 +3,7 @@ import { defineConfig } from "vitepress";
 import { mergeBlogConfig } from "vitepress-sls-blog-tmpl/blogConfigBase.js";
 import { loadBlogLocale } from "vitepress-sls-blog-tmpl/blogConfigHelper.js";
 
-export const PER_PAGE = 2;
+export const PER_PAGE = 20;
 
 export default async () => {
   const config = defineConfig({
