@@ -15,7 +15,7 @@ body: |-
   authors:
     - id: "ivan-k"
       name: "Айван Кей"
-      descr: "Мыслитель и практик в области философии свободы, идеолог антифеминизма, анархист"
+      description: "Мыслитель и практик в области философии свободы, идеолог антифеминизма, анархист"
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
@@ -26,7 +26,7 @@ body: |-
           title: "YouTube канал Айван Кей"
     - id: "ilya-goryunov"
       name: "Илья Горюнов"
-      descr: "Антифеминист"
+      description: "Антифеминист"
   footer:
     message: "Копирование разрешено только со ссылкой на источник."
     copyright: "Copyright © 2024-present International Antifeminist movement."

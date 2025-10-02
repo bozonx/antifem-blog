@@ -15,7 +15,7 @@ body: |-
   authors:
     - id: "ivan-k"
       name: "Ivan K"
-      descr: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist.\n\n[more](https://p-libereco.org/${theme.localeIndex}/doc/ivan-k)"
+      description: "Thinker and practitioner of the philosophy of freedom, ideologue of anti-feminism, anarchist."
       image: "/media/ivan-k.webp"
       links:
         - type: "site"
@@ -26,7 +26,7 @@ body: |-
           title: "YouTube channel Ivan K (RU)"
     - id: "ilya-goryunov"
       name: "Ilya Goryunov"
-      descr: "Antifeminist"
+      description: "Antifeminist"
   footer:
     message: "Copying allowed only with a link to the source."
     copyright: "Copyright © 2024-present International Antifeminist movement."
