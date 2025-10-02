@@ -48,6 +48,7 @@ body: |-
     donate: true
     rssFeed: true
     atomFeed: true
+    tags: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
         href: "${theme.repo}"
