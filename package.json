@@ -7,12 +7,12 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev src",
+    "pagefind": "pagefind --verbose --site ./docs --glob '**/{post,page}*/*.html'",
     "build": "vitepress build src && pnpm pagefind",
     "preview": "vitepress preview src",
     "cf:dev": "pnpm build && wrangler dev",
     "cf:deploy": "pnpm build && wrangler deploy",
-    "cf:login": "wrangler login",
-    "pagefind": "pagefind --verbose"
+    "cf:login": "wrangler login"
   },
   "dependencies": {
     "pagefind": "^1.4.0",
