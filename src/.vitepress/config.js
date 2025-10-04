@@ -14,6 +14,8 @@ export default async () => {
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
 
+      search: { provider: "pagefind" },
+
       googleAnalytics: {
         propertyId: "500486823",
         credentialsPath:
@@ -21,7 +23,7 @@ export default async () => {
       },
 
       popularPosts: {
-        enabled: true,
+        // enabled: true,
         sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
       },
 
@@ -36,6 +38,7 @@ export default async () => {
       // do not recognize telephone numbers on the page
       ["meta", { name: "format-detection", content: "telephone=no" }],
 
+      // google analytics
       [
         "script",
         {
@@ -49,6 +52,17 @@ export default async () => {
         `window.dataLayer = window.dataLayer || [];function gtag(){dataLayer.push(arguments);} gtag('js', new Date());
        gtag('config', 'G-M9CWSVHKYS');`,
       ],
+
+      // pagefind
+      ["link", { rel: "stylesheet", href: "/pagefind/pagefind-ui.css" }],
+      ["script", { src: "/pagefind/pagefind-ui.js" }],
+      //   [
+      //     "script",
+      //     {},
+      //     `window.addEventListener('DOMContentLoaded', (event) => {
+      //     new PagefindUI({ element: "#search", showSubResults: true, showImages: true });
+      // });`,
+      //   ],
     ],
   });
 
