@@ -23,7 +23,7 @@ export default async () => {
       },
 
       popularPosts: {
-        // enabled: true,
+        enabled: true,
         sortBy: "pageviews", // 'pageviews', 'uniquePageviews'
       },
 
