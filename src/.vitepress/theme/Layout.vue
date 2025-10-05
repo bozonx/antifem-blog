@@ -18,7 +18,6 @@
 
 <template>
   <Layout>
-    <!-- <template #aside> test </template> -->
     <template #nav-bar-content-before>
       <PageFindSearch>
         <NavSearchButton />
