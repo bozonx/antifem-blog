@@ -7,7 +7,7 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev src",
-    "pagefind": "pagefind --verbose --site ./docs --glob '**/{post,page}*/*.html'",
+    "pagefind": "pagefind --verbose --site ./docs",
     "build": "vitepress build src && pnpm pagefind",
     "preview": "vitepress preview src",
     "cf:dev": "pnpm build && wrangler dev",

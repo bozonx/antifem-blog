@@ -14,7 +14,9 @@ export default async () => {
       perPage: PER_PAGE,
       sidebarLogoSrc: "/img/sidebar-logo.webp",
 
-      // search: { provider: "pagefind" },
+      search: {
+        bodyMarker: "data-pagefind-body",
+      },
 
       googleAnalytics: {
         propertyId: "500486823",
