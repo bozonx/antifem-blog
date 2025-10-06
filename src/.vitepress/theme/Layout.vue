@@ -1,7 +1,7 @@
 <script setup>
-  import Theme from "vitepress-sls-blog-tmpl";
   import NavSearchButton from "vitepress-sls-blog-tmpl/NavSearchButton.vue";
   import PageFindSearch from "vitepress-sls-blog-tmpl/PageFindSearch.vue";
+  import Theme from "vitepress-sls-blog-tmpl";
   import { provide } from "vue";
   import { data as ruData } from "../../ru/loadPosts.data.js";
   import { data as enData } from "../../en/loadPosts.data.js";
