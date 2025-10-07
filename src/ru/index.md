@@ -15,7 +15,8 @@ const hero = {
   firstLine: "Блог движения Антифеминизм",
   secondLine: "Статьи, новости&nbsp;движения",
   img: {
-    src: theme.value.mainHeroImg
+    src: theme.value.mainHeroImg,
+    alt: "Логотип Антифеминизм",
   },
   buttons: [
     {
