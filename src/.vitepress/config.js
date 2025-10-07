@@ -33,7 +33,7 @@ export default async () => {
       ruTgChannel: "https://t.me/antifem_battle",
       ruIvanKYoutubeChannel: "https://www.youtube.com/@ivan-k-freedom",
       ruYoutubeChannel: "https://www.youtube.com/@antifem-move",
-      rTgChat: "https://t.me/antifem_battle_chat",
+      ruTgChat: "https://t.me/antifem_battle_chat",
       mainSiteUrl: "https://antifem.org",
     },
     head: [

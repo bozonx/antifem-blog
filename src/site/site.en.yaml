@@ -37,7 +37,7 @@ body: |-
     donate: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${theme.repo}"
+        href: "${config.repo}"
         title: 'This blog on Github'
         desktopOnly: true
   sideBar:
@@ -51,7 +51,7 @@ body: |-
     tags: true
     socialLinks:
       - icon: 'fa6-brands:github-alt'
-        href: "${theme.repo}"
+        href: "${config.repo}"
         title: 'This blog on Github'
     bottomLinks:
       - { header: "${t.links.links}" }
@@ -62,7 +62,7 @@ body: |-
         href: "${theme.ruYoutubeChannel}"
         icon: "${theme.youtubeIcon}"
       - text: "Our chat in Telegram (RU)"
-        href: "${theme.rTgChat}"
+        href: "${theme.ruTgChat}"
         icon: "${theme.chatIcon}"
       - text: "All our channels"
         href: "${theme.mainSiteUrl}/${localeIndex}/page/links"

@@ -62,7 +62,7 @@ body: |-
         href: "${theme.ruYoutubeChannel}"
         icon: "${theme.youtubeIcon}"
       - text: "Наш чат в Telegram"
-        href: "${theme.rTgChat}"
+        href: "${theme.ruTgChat}"
         icon: "${theme.chatIcon}"
       - text: "Все наши каналы"
         href: "${theme.mainSiteUrl}/${localeIndex}/page/links"
