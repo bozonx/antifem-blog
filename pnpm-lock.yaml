@@ -11,6 +11,9 @@ importers:
 
   .:
     dependencies:
+      '@midzer/tobii':
+        specifier: ^3.0.0
+        version: 3.0.0
       pagefind:
         specifier: ^1.4.0
         version: 1.4.0
@@ -522,6 +525,10 @@ packages:
 
   '@jridgewell/trace-mapping@0.3.9':
     resolution: {integrity: sha512-3Belt6tdc8bPgAtbcmdtNJlirVoTmEb5e2gC94PnkwEW9jI6CAHUeoG85tjWP5WquqfavoMtMwiG4P926ZKKuQ==}
+
+  '@midzer/tobii@3.0.0':
+    resolution: {integrity: sha512-FA6Jlk1AeOwkm6uYpkheJPJzPKqcsmhNqmbhQcimHDR67NVgTEetmhR6gj6ELBhxTIU4BtPC3l3xTAzn5wBSvQ==}
+    engines: {node: '>=18'}
 
   '@pagefind/darwin-arm64@1.4.0':
     resolution: {integrity: sha512-2vMqkbv3lbx1Awea90gTaBsvpzgRs7MuSgKDxW0m9oV1GPZCZbZBJg/qL83GIUEN2BFlY46dtUZi54pwH+/pTQ==}
@@ -1558,6 +1565,8 @@ snapshots:
     dependencies:
       '@jridgewell/resolve-uri': 3.1.2
       '@jridgewell/sourcemap-codec': 1.5.4
+
+  '@midzer/tobii@3.0.0': {}
 
   '@pagefind/darwin-arm64@1.4.0':
     optional: true

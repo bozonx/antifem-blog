@@ -15,6 +15,7 @@
     "cf:login": "wrangler login"
   },
   "dependencies": {
+    "@midzer/tobii": "^3.0.0",
     "pagefind": "^1.4.0",
     "vitepress": "2.0.0-alpha.9",
     "vitepress-sls-blog-tmpl": "^0.15.0"
