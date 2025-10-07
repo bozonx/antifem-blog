@@ -20,8 +20,7 @@ export default async () => {
 
       googleAnalytics: {
         propertyId: "500486823",
-        credentialsPath:
-          "/home/ivan/disk2/workspace/antifem-blog/ga-credentials.json",
+        credentialsPath: "./ga-credentials.json",
       },
 
       popularPosts: {

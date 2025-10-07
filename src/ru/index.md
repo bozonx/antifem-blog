@@ -14,7 +14,9 @@ const { theme, localeIndex } = useData()
 const hero = {
   firstLine: "Блог движения Антифеминизм",
   secondLine: "Статьи, новости&nbsp;движения",
-  img: theme.value.mainHeroImg,
+  img: {
+    src: theme.value.mainHeroImg
+  },
   buttons: [
     {
       text: theme.value.t.toBlog,
