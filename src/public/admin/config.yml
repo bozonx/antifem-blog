@@ -47,7 +47,7 @@ collections:
     slug: "{{date | date('YYYY')}}-{{slug}}"
     preview_path: "/{{locale}}/post/{{slug}}"
     create: true
-    summary: "{{title}} | {{commit_date}} | {{commit_author}} | {{filename}}.md"
+    summary: "{{title}} | {{commit_date}} | {{commit_author}}"
     sortable_fields:
       fields: ["date", "title", "authorId"]
       default:
@@ -77,7 +77,7 @@ collections:
         format: "YYYY-MM-DDTHH:mmZ"
         preview: false
         i18n: duplicate
-      - label: "Description"
+      - label: "Description (please do less than 500 chars)"
         name: "description"
         widget: "text"
         required: false
@@ -110,6 +110,8 @@ collections:
         preview: false
         i18n: true
         output_code_only: true
+        default_language: yaml
+        allow_language_selection: false
       - label: "Cover"
         name: "cover"
         widget: "image"
