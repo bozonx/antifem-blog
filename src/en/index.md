@@ -1,7 +1,6 @@
 ---
 layout: home
 ---
-
 <script setup>
 import HomeHero from 'vitepress-sls-blog-tmpl/HomeHero.vue'
 import HomeTags from 'vitepress-sls-blog-tmpl/HomeTags.vue'
