@@ -7,20 +7,21 @@
   "license": "MIT",
   "scripts": {
     "dev": "vitepress dev src",
-    "pagefind": "pagefind --verbose --site ./docs",
+    "pagefind": "pagefind --verbose --site ./dist",
     "build": "vitepress build src && pnpm pagefind",
-    "preview": "vitepress preview src",
-    "cf:dev": "pnpm build && wrangler dev",
-    "cf:deploy": "pnpm build && wrangler deploy",
-    "cf:login": "wrangler login"
+    "preview": "vitepress preview src"
   },
   "dependencies": {
     "@midzer/tobii": "^3.0.0",
     "pagefind": "^1.4.0",
     "vitepress": "2.0.0-alpha.9",
-    "vitepress-sls-blog-tmpl": "^0.15.0"
+    "vitepress-sls-blog-tmpl": "^0.16.2"
   },
-  "devDependencies": {
-    "wrangler": "^3.72.0"
+  "pnpm": {
+    "ignoredBuiltDependencies": [
+      "esbuild",
+      "sharp",
+      "workerd"
+    ]
   }
 }

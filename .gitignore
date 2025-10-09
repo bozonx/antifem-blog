@@ -2,8 +2,7 @@
 .cache
 */.vitepress/cache
 */.vitepress/dist
-/dist
-.wrangler
+dist/
 
 ga-credentials.json
 
