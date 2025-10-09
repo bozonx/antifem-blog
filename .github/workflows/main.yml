@@ -60,6 +60,8 @@ jobs:
 
       - name: Build project
         run: pnpm build
+        env:
+          GA_CREDENTIALS_JSON: ${{ secrets.GA_CREDENTIALS_JSON }}
 
       - name: Setup Pages
         uses: actions/configure-pages@v4
