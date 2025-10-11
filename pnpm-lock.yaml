@@ -18,8 +18,8 @@ importers:
         specifier: 2.0.0-alpha.9
         version: 2.0.0-alpha.9(postcss@8.5.6)(yaml@2.8.1)
       vitepress-sls-blog-tmpl:
-        specifier: ^0.16.6
-        version: 0.16.6(postcss@8.5.6)
+        specifier: ^0.16.7
+        version: 0.16.7(postcss@8.5.6)
 
 packages:
 
@@ -731,8 +731,8 @@ packages:
     resolution: {integrity: sha512-66if47It7y+Sab3HMkwEXx1kCq9qUC9px8ZXoj1CMrmLmUw81GpbnsNlXnlyZyGbGPGcj+tDD9XsZ23m7GLaJQ==}
     engines: {node: '>=18.0.0'}
 
-  googleapis@161.0.0:
-    resolution: {integrity: sha512-JZy2cWMxgUF8E09KHzplI+z+FVG8NWDB/bsf4xevt9Um4bInb0X1qaG9qpDn49DHT5HsU0mOp3EOBGb8+AdE3Q==}
+  googleapis@162.0.0:
+    resolution: {integrity: sha512-dxHgGExRjbRLHxHZuPyiFB2692H9hP4Qg9OI6nhzw5OOFlxl6ufG5GMqraKv6HAFvHltz7Ytx/C1ndcM85USxA==}
     engines: {node: '>=18'}
 
   gopd@1.2.0:
@@ -1065,10 +1065,6 @@ packages:
   sprintf-js@1.0.3:
     resolution: {integrity: sha512-D9cPgkvLlV3t3IzL0D0YLvGA9Ahk4PcvVwUbN0dSGr1aP0Nrt4AEnTUbuGvquEC0mA64Gqt1fzirlRs5ibXx8g==}
 
-  squidlet-lib@0.2.1:
-    resolution: {integrity: sha512-CfieQqXdO4IMAyI+nOyI2TkFNJkKU78xDS7BVUDQ/fAJLqNHprRDMaWjv5eDJp7yJ5pK1FQeIsE4AKZQMsiJcA==}
-    engines: {node: '>=18.17.0'}
-
   stringify-entities@4.0.4:
     resolution: {integrity: sha512-IwfBptatlO+QCJUo19AqvrPNqlVMpW9YEL2LIVY+Rpv2qsjCGxaDLNRgeGsQWJhfItebuJhsGSLjaBbNSQ+ieg==}
 
@@ -1170,8 +1166,8 @@ packages:
       yaml:
         optional: true
 
-  vitepress-sls-blog-tmpl@0.16.6:
-    resolution: {integrity: sha512-4zrkL1RFCIXmNw97I05z4sMWs+BdFnCIpwkixjYBL/lWCe7/xRSxrqYveMZZhS5qC9x8Rk8PZOCQDgtUGxBXHg==}
+  vitepress-sls-blog-tmpl@0.16.7:
+    resolution: {integrity: sha512-Ty3DwINCOfIzrXcvtsQ9kkWW//p2rohimr3t6VwqgCEy2WdY+9ICORc7d2ss6+W7sNNelgVLUKc5pG3ffnslhA==}
 
   vitepress@2.0.0-alpha.9:
     resolution: {integrity: sha512-oUdZiT8ZCLf80Nw02Ha+v25aaabwik6iSMTEBXg46bMypNS/5i6AfMgFqpTuR5l3qG9XfNmau/SLT0sRiks2Zg==}
@@ -1844,7 +1840,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  googleapis@161.0.0:
+  googleapis@162.0.0:
     dependencies:
       google-auth-library: 10.4.0
       googleapis-common: 8.0.0
@@ -2359,8 +2355,6 @@ snapshots:
 
   sprintf-js@1.0.3: {}
 
-  squidlet-lib@0.2.1: {}
-
   stringify-entities@4.0.4:
     dependencies:
       character-entities-html4: 2.1.0
@@ -2448,13 +2442,13 @@ snapshots:
       fsevents: 2.3.3
       yaml: 2.8.1
 
-  vitepress-sls-blog-tmpl@0.16.6(postcss@8.5.6):
+  vitepress-sls-blog-tmpl@0.16.7(postcss@8.5.6):
     dependencies:
       '@iconify/vue': 5.0.0(vue@3.5.22)
       '@vueuse/components': 13.9.0(vue@3.5.22)
       cheerio: 1.1.2
       feed: 5.1.0
-      googleapis: 161.0.0
+      googleapis: 162.0.0
       gray-matter: 4.0.3
       image-size: 2.0.2
       rehype-external-links: 3.0.0
@@ -2462,7 +2456,7 @@ snapshots:
       remark: 15.0.1
       remark-rehype: 11.1.2
       slug: 11.0.0
-      squidlet-lib: 0.2.1
+      squidlet-lib: link:../../../../home/ivan/.local/share/pnpm/global/5/node_modules/squidlet-lib
       strip-markdown: 6.0.0
       tailwindcss: 4.1.14
       vitepress: 2.0.0-alpha.9(postcss@8.5.6)(yaml@2.8.1)
