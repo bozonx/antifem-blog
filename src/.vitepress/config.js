@@ -20,8 +20,8 @@ export default async () => {
 
       googleAnalytics: {
         propertyId: "500486823",
-        credentialsPath: "./ga-credentials.json",
         credentialsJson: process.env.GA_CREDENTIALS_JSON,
+        credentialsPath: "./ga-credentials.json",
       },
 
       popularPosts: {
