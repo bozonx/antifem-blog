@@ -1,3 +1,5 @@
+[![Deploy to GitHub Pages](https://github.com/bozonx/antifem-blog/actions/workflows/main.yml/badge.svg)](https://github.com/bozonx/antifem-blog/actions/workflows/main.yml)
+
 # Blog of the Antifeminist movement
 
 Short url to the recent page is `/0?ru`.
