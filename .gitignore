@@ -4,7 +4,7 @@
 */.vitepress/dist
 dist/
 
-ga-credentials.json
+credentials.json
 
 
 # Logs
